@@ -1,0 +1,17 @@
+{
+  "url": "https://catalog.archives.gov/search?q=UT%20SKULL%20VALLEY%20BAND%20OF%20GOSHUTE%20INDIANS%20OF%20",
+  "final_url": "https://catalog.archives.gov/search?q=UT%20SKULL%20VALLEY%20BAND%20OF%20GOSHUTE%20INDIANS%20OF%20",
+  "title": "NARA - UT SKULL VALLEY BAND OF GOSHUTE INDIANS OF ",
+  "fetched_at": "2026-11-23T18:20:55.654800Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 5454,
+  "sha256": "46391ed75675aca9fcd0492a82e05180a1aff37697360e756982ecc22b6a6b95",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
